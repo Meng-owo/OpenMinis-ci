@@ -1,0 +1,20 @@
+/* Info.plist permission strings — Français */
+
+"NSLocationWhenInUseUsageDescription" = "嘟嘟 utilise votre position pour enregistrer le lieu de démarrage des sessions de l'agent dans votre historique.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "嘟嘟 utilise la localisation en arrière-plan pour maintenir les tâches de l'agent en cours d'exécution. Les données de localisation servent uniquement à enregistrer l'historique des connexions.";
+"NSCalendarsUsageDescription" = "嘟嘟 accède au calendrier pour que l'agent AI puisse consulter votre emploi du temps, vérifier vos disponibilités et créer des événements en votre nom.";
+"NSCalendarsFullAccessUsageDescription" = "嘟嘟 accède au calendrier pour que l'agent AI puisse consulter votre emploi du temps, vérifier vos disponibilités et créer des événements en votre nom.";
+"NSRemindersUsageDescription" = "嘟嘟 accède aux rappels pour que l'agent AI puisse consulter et créer des rappels en votre nom.";
+"NSRemindersFullAccessUsageDescription" = "嘟嘟 accède aux rappels pour que l'agent AI puisse consulter et créer des rappels en votre nom.";
+"NSCameraUsageDescription" = "嘟嘟 a besoin de l'accès à l'appareil photo pour prendre des photos destinées aux conversations AI.";
+"NSPhotoLibraryUsageDescription" = "嘟嘟 a besoin de l'accès à la photothèque pour joindre des images aux conversations AI.";
+"NSPhotoLibraryAddUsageDescription" = "嘟嘟 a besoin de l'autorisation d'enregistrer des vidéos et images dans votre photothèque.";
+"NSHealthShareUsageDescription" = "嘟嘟 accède à HealthKit pour que l'agent AI puisse lire vos données de santé telles que les pas, la fréquence cardiaque, le sommeil et les entraînements.";
+"NSHealthUpdateUsageDescription" = "嘟嘟 accède en écriture à HealthKit pour que l'agent AI puisse enregistrer des données de santé telles que les pas, le poids et l'hydratation.";
+"NSContactsUsageDescription" = "嘟嘟 accède aux contacts pour que l'agent AI puisse rechercher, consulter et gérer vos contacts en votre nom.";
+"NSAppleMusicUsageDescription" = "嘟嘟 accède à la bibliothèque multimédia pour que l'agent AI puisse rechercher votre musique et contrôler la lecture.";
+"NSMicrophoneUsageDescription" = "嘟嘟 a besoin de l'accès au microphone pour la saisie vocale dans le chat.";
+"NSSpeechRecognitionUsageDescription" = "嘟嘟 utilise la reconnaissance vocale pour convertir votre voix en messages texte.";
+"NSHomeKitUsageDescription" = "嘟嘟 accède à HomeKit pour que l'agent AI puisse interroger et contrôler vos accessoires domotiques.";
+"NSAlarmKitUsageDescription" = "嘟嘟 utilise AlarmKit pour que l'agent AI puisse régler des alarmes et des minuteries en votre nom.";
+"NSLocalNetworkUsageDescription" = "La machine virtuelle nécessite un accès réseau pour le réseau SLIRP";
